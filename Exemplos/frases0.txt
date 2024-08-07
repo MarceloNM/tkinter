@@ -1,0 +1,19 @@
+Beautiful is better than ugly.,Bonito e' melhor que feio.
+Explicit is better than implicit.,Explicito e' melhor que implicito.
+Simple is better than complex.,Simples e' melhor que complexo.
+Complex is better than complicated.,Complexo e' melhor que complicado.
+Flat is better than nested.,Plano e' melhor que enrolado.
+Sparse is better than dense.,Esparso e' melhor que denso.
+Readability counts.,A legibilidade conta.
+Special cases aren't special enough to break the rules.,Casos especiais nao sao especiais o suficiente para quebrar as regras.
+Although practicality beats purity.,Embora a praticidade supere a pureza.
+Errors should never pass silently.,Os erros nunca devem passar silenciosamente.
+Unless explicitly silenced.,A menos que sejam explicitamente silenciados.
+In the face of ambiguity - refuse the temptation to guess.,Perante a ambiguidade recuse a tentacao de adivinhar.
+There should be one - and preferably only one - obvious way to do it.,Deveria haver uma - e de preferencia apenas uma - maneira obvia de o fazer.
+Although that way may not be obvious at first unless you're Dutch.,Embora essa forma possa nao ser obvia de imediato - a menos que voce seja holandes.
+Now is better than never.,Agora e' melhor do que nunca.
+Although never is often better than *right* now.,Embora nao seja frequentemente melhor do que *ja*.
+If the implementation is hard to explain - it's a bad idea.,Se a implementacao for dificil de explicar e' uma ma' ideia.
+If the implementation is easy to explain - it may be a good idea.,Se a implementacao for facil de explicar pode ser uma boa ideia.
+Namespaces are one honking great idea - let's do more of those!,'Espacos de nomes' sao otima ideia - vamos fazer mais! 
